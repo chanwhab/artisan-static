@@ -11,4 +11,4 @@ what is this
 
 ![11](/images/20190325_bag.jpg)
 
-![](/images/20190325_home_mobile_banner.jpg)
+![null](/images/20190325_home_mobile_banner.jpg)
